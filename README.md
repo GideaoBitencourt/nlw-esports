@@ -6,7 +6,7 @@
 
 Projeto construído através do evento Next Level Week da Rocketseat.
 
-[🔗 Clique aqui para acessar](https://gideao17y.github.io/nlw-esports/
+[🔗 Clique aqui para acessar](https://GideaoBitencourt.github.io/nlw-esports/
 )
 ##  💻 Tecnologias
 
